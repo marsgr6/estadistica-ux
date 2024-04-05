@@ -1,4 +1,4 @@
-Sexo,Edad,cluster,Q1,Q2,Q3,variable,value,factor,tf,type_id,jitter_type,jitter_value
+Sexo,Edad,cluster,Q1,Q2,Q3,question,answer,factor,tf,type_id,jitter_type,jitter_value
 Male,18,1,Si,Si,No,Q12,4,EE,Internal,0,-0.0593664788527587,3.7831270901133065
 Male,18,1,Si,Si,Si,Q12,4,EE,Internal,0,-0.07780881381594501,3.997538804322871
 Male,18,0,Si,Si,Si,Q12,3,EE,Internal,0,-0.1284030366369781,2.8724922440229346
