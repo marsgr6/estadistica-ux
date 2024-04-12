@@ -1,0 +1,53 @@
+Please indicate ID number from the experiment,"01. Overall, I am satisfied with how easy it is to use this system",02. It was simple to use this system,03. I could effectively complete my work using this system,04. I was able to complete my work quickly using this system,05. I was able to efficiently complete my work using this system,06. I felt comfortable using this system,07. It was easy to learn to use this system,08. I believe I could become productive quickly using this system,09. The system gave error messages that clearly tell me how to fix problems,"10. Whenever I made a mistake using the system, I could recover easily and quickly","11. The information (such as online help, on-screen messages, and other documentation) provided with this system was clear",12. It was easy to find the information I needed,13. The information provided for the system was easy to understand,14. The information was effective in helping me complete the tasks and scenarios,15. The organization of information on the system screens was clear,16. The interface of this system was pleasant,17. I liked using the interface of this system,18. This system has all the functions and capabilities I expect it to have,"19. Overall, I am satisfied with this system","23. Read over the following list of words. Considering the product you have just used, tick those words that best describe your experience with it. You can choose as many words as you wish"
+1,6,7,6,5,6,6,6,6,4,5,5,6,5,6,6,6,5,6,6,Boring;Consistent;EasyToUse;Fast;Simple;Useful
+2,5,6,6,6,5,4,6,6,3,5,3,4,4,4,5,4,3,4,5,Boring;Confusing;Contradictory;Difficult;EasyToUse;Effective;Familiar;Fast;Inconsistent;Innovative;Irrelevant;Ordinary;Rigid;Simple;Simplistic;Usable
+3,7,7,6,6,6,3,5,6,2,3,4,4,6,5,5,2,2,2,3,Confusing;Fast;Old;Unattractive;Useful
+4,4,6,5,5,5,3,4,5,4,5,4,5,3,6,3,1,3,4,5,Complex;Confusing;Creative;Difficult
+5,3,3,2,3,5,3,3,5,5,3,3,4,3,4,5,4,3,5,2,Advanced;Clean;Credible;Difficult;Effective;New
+6,5,7,6,5,6,5,7,6,4,6,6,6,6,5,6,5,5,6,5,Boring;Clear;EasyToUse
+7,4,6,6,5,5,5,5,5,4,4,4,4,4,5,5,4,4,4,5,Unattractive;Useful
+8,5,6,6,6,6,6,6,6,4,5,5,6,6,6,5,6,7,6,7,Advanced;Clean;Confusing;Consistent;EasyToUse;Fun;Stable;Stimulating;Stressful;Usable
+9,5,5,6,6,6,5,6,6,4,4,5,6,5,5,7,6,6,5,6,Advanced;Clean;Confusing;Consistent;EasyToUse;High quality;Simple;Slow;Usable;Useful
+10,7,7,5,5,5,6,6,6,5,6,6,5,5,5,6,5,6,6,7,Advanced;Attractive;Clean;Comprehensive;Consistent;Convenient;Creative;Credible;EasyToUse;Effective;Efficient;Energetic;Fast;Flexible;Impressive;Incomprehensible;New;Powerful;Professional;Reliable;Responsive;Simple;Time-consuming;Usable;Useful
+11,6,6,5,5,5,5,7,7,4,7,1,5,5,5,5,6,6,6,7,Advanced;Clear;Creative;Credible;EasyToUse;Effective;Friendly
+12,6,6,5,5,5,5,5,5,7,7,6,4,5,5,6,2,2,4,4,Ambiguous;EasyToUse;Poor quality
+13,5,5,6,6,6,5,5,7,5,6,6,6,5,6,5,4,6,7,6,Credible;Effective;Friendly;Slow;Usable
+14,7,6,7,6,6,7,7,7,6,7,6,7,6,7,5,5,5,7,7,Boring;Clean;Clear;Comprehensive;Consistent;EasyToUse;Efficient;Effortless;Expected;Fresh;Intuitive;Satisfying;Simple;Simplistic;Stable;Straightforward;TimeSaving;Usable;Useful
+15,4,6,7,5,7,6,4,6,5,4,5,6,4,6,4,4,4,4,4,Clean;Comprehensive;Creative;EasyToUse;Fresh;Friendly;Understandable;Usable;Useful
+16,7,7,5,5,5,4,6,6,3,6,2,3,3,4,4,4,5,5,4,Boring;Confusing;Creative;Difficult;EasyToUse;Fast;Hard to Use;Inconsistent;New;Poor quality;Simple;Usable
+17,7,7,6,6,6,3,4,6,1,1,1,6,5,5,4,3,5,3,4,Boring;Clean;Confusing;Credible;EasyToUse;Effective;Fast;Inconsistent;Old;Poor quality;Simple;Unattractive;Useful
+18,5,6,6,6,6,4,5,6,1,6,3,4,3,3,4,2,2,2,3,Boring;Confusing;Creative;Incomprehensible
+19,6,6,6,5,5,5,6,6,1,5,2,3,4,4,6,6,6,4,4,Attractive;Consistent;EasyToUse;Simple
+20,4,6,2,3,2,3,6,2,1,1,1,2,6,2,6,4,3,3,2,Ambiguous;Time-consuming;Trustworthy
+21,6,7,6,6,7,5,6,6,4,3,6,7,7,6,5,5,5,4,5,Boring;Consistent;EasyToUse;Efficient;New;Ordinary;Responsive;Simple;Slow
+23,5,4,5,5,5,2,3,4,6,6,4,4,5,4,5,4,4,4,4,Attractive;Boring;Busy;Confusing;Convenient;Effective;Fresh;New;NonStandard;Rigid;Vague
+24,3,3,2,2,3,4,3,4,1,2,1,2,2,2,2,2,3,3,3,Ambiguous;Boring;Obscure;Unattractive;Vague
+25,5,5,3,5,6,6,6,6,3,5,3,6,7,4,5,4,5,6,5,Ambiguous;Confusing;Dated;EasyToUse;Effective;Fast;Fresh;Innovative;New;Too technical
+26,7,7,7,7,7,7,7,7,3,4,4,4,4,4,4,5,5,6,6,Advanced;Busy;Clean;Clear;Complex;Consistent;Convenient;Desirable;EasyToUse;Incomprehensible;Inconsistent;Old;Ordinary;Simple;Unattractive;Unconventional;Unrefined
+27,6,7,6,6,7,6,5,6,6,7,4,4,6,5,6,7,5,7,7,Ambiguous;Attractive;Boring;Clear;Creative;Dated;Energetic;Fun;High quality;Patronising;Responsive;Stressful;Unattractive;Useful
+28,4,4,4,4,4,4,4,4,4,4,5,5,3,4,5,4,3,6,5,Clean;Clear;Comprehensive;Credible;EasyToUse;Effective;Effortless;Fast;Friendly;High quality;New;Organised;Powerful;Satisfying;Simple;TimeSaving;Useful
+29,5,5,5,5,5,5,5,5,5,5,5,4,4,4,5,5,5,5,5,Advanced;Attractive;Clean;Clear;Comprehensive;Convenient;Credible;EasyToUse;Effective;Efficient;Fast;Flexible;Fresh;Friendly;Motivating;New;NonStandard;Organised;Professional;Reliable;Simple;Stable;Usable;Useful
+30,6,6,4,4,4,5,5,6,5,5,6,6,6,6,6,5,5,5,5,Advanced;Ambiguous;Attractive;Clear;Confusing;Consistent;Convenient;Creative;Difficult;Effective;Efficient;Exciting;Familiar;Fast;Hard to Use;Intuitive;Motivating;New;Professional;Relevant;Simple;Stable;Too technical
+31,3,3,3,3,3,3,5,5,3,5,4,4,4,7,5,5,4,4,4,Advanced;Attractive;Bright;Clean;Clear;Complex;Confusing;Consistent;Convenient;Creative;Credible;Dated;Difficult;Effective;Efficient;Effortless;Empowering;Entertaining;Exciting;Expected;Fast;Flexible;Fresh;Frustrating;Fun;High quality;Incomprehensible;Innovative;Intimidating;Motivating;New;Obscure;Powerful;Professional;Relevant;Reliable;Responsive;Rigid;Satisfying;Secure;Simple;Sophisticated;Stable;Stimulating;Straightforward;Stressful;SystemOriented;TimeSaving;Too technical;Unpredictable;Usable;Useful
+32,7,7,5,5,5,6,7,6,7,7,7,7,6,6,7,6,6,7,7,Advanced;Attractive;Clear;Comprehensive;Consistent;Creative;Desirable;Empowering;Engaging;Exciting;Friendly;New;Organised;Professional;Reliable;Secure;Simple;Stable;Too technical;Useful
+33,6,6,6,6,6,6,6,6,4,4,5,4,6,6,6,6,6,6,6,Bright;Clear;Consistent;EasyToUse;Entertaining;Straightforward;Useful
+34,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,Boring;Contradictory;Desirable;Difficult;Distracting
+35,6,7,7,7,7,6,6,6,4,4,4,7,7,7,5,6,5,6,6,Comprehensive;Credible;EasyToUse;Fast;Friendly;Obscure;Professional;Useful
+36,7,7,7,7,7,6,7,6,1,1,3,7,7,6,7,5,5,6,7,Boring;Clear;Convenient;Creative;Fast;New;Reliable;Simple
+39,6,6,6,6,6,6,6,6,5,5,6,6,6,6,6,6,6,6,6,Boring;Clear;Comprehensive;Creative;EasyToUse;Effective;Efficient;Flexible;Friendly;Slow
+40,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,Attractive;Clear;Creative;EasyToUse;Effective;Efficient;Effortless;Familiar;Usable
+41,7,7,7,7,7,7,7,7,5,7,7,6,7,7,7,7,7,7,7,Advanced;Attractive;Convenient;Creative;Credible;Simplistic;Too technical;Usable
+42,6,6,6,6,6,6,7,6,6,6,7,5,6,5,5,6,6,6,5,Advanced;Attractive;Clear;Fast;Motivating;New;Professional;Relevant;Sophisticated;Useful
+43,6,6,6,7,7,5,6,6,7,6,6,6,7,5,7,5,5,6,6,Advanced;Attractive;Clean;New;TimeSaving
+44,7,7,6,6,6,7,7,7,7,7,7,7,7,7,7,6,6,5,6,Advanced;Attractive;Convenient;Creative;Credible;Fast;Friendly;Professional
+45,7,7,7,7,6,6,6,6,5,5,6,6,7,6,6,6,6,6,6,Advanced;Attractive;Convenient;Creative;Credible;Effective;Efficient;Empowering;Exciting;Expected;Fast;Flexible;Fresh;Fun;High quality;Motivating;New;Ordinary;Professional;Satisfying;Stimulating;Useful
+46,7,7,6,6,4,4,7,7,2,7,6,7,6,7,6,6,6,7,7,Advanced;Attractive;Clear;Comprehensive;Consistent;Creative;Efficient;Organised;Powerful;Useful
+47,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,Advanced;Attractive;Clean;Confusing;Creative;Effective;Efficient;Fast;Friendly;Motivating;New;Responsive;Simple
+49,2,4,2,2,2,3,4,2,1,1,2,2,2,2,2,2,2,2,3,Ambiguous;Boring;Confusing;Contradictory;Dated;EasyToUse;Frustrating;Irrelevant;Poor quality;Stimulating;Unrefined;Vague
+50,5,5,4,4,4,5,6,5,2,4,4,4,4,4,3,3,3,1,2,Advanced;Attractive;Consistent;Flexible;Friendly;Usable
+51,5,5,4,4,3,4,4,5,3,5,4,5,3,5,4,4,4,4,5,Consistent;Convenient;Creative;Credible;Relevant
+52,5,6,6,5,6,6,6,5,3,4,4,5,6,6,6,5,4,5,6,Advanced;Clean;Complex;Creative;Credible;Expected;Fun
+53,7,7,6,6,6,7,7,7,5,7,6,5,7,6,7,6,6,6,6,Advanced;Attractive;Clear;Comprehensive;Creative;Effective;Empowering;Innovative
+54,6,6,5,5,5,6,6,6,5,6,7,6,6,6,6,5,4,6,5,Ambiguous
+55,5,7,4,4,4,6,7,5,6,5,5,5,5,5,5,5,5,5,5,Ambiguous;Busy;Clean;Clear;Contradictory
+56,2,7,2,4,2,7,7,4,1,7,7,7,7,7,7,7,7,5,6,Advanced;Comprehensive;Convenient;Creative;Effective;Rigid

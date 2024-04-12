@@ -1,0 +1,53 @@
+01. Please indicate ID number from the experiment,02. Please indicate your gender.,03. Please indicate your age group.,04. Please indicate the highest degree you have obtained.,05. Have you ever used any computers?,06. For how long did you use or have been using such system?,07. How many hours per day do you use or have been using such systems?,08. How would you rate your experience with computers? ,09. How would you rate your ability to work with computers? ,10. How would you rate your ability to learn a software package that you never used before? ,"11. How would you rate your ability to use a Browser (e.g. Internet Explorer, Google Chrome, Mozilla Firefox, Safari)? ",12. How would you rate your ability to discuss strengths and weaknesses of various software packages? ,13. To what extent would you agree with the following: could probably learn by myself most of the things I need to know about computers,"14. To what extent would you agree with the following: If I had a problem using a computer, I could solve it by different manners",15. To what extent would you agree with the following: I do not need someone to tell me the best way to use a computer,16. To what extent would you agree with the following: I prefer to learn new computer software package by myself,17. Have you ever used any air quality system?,18. For how long did you use or have been using such systems?,19. How many hours per day do you use or have been using an air quality system?,20. How would you rate your experience with air quality system?,21. How would you rate your ability to work with air quality system?,22. Have you ever used a Tablet device?,23. For how long did you use or have been using such systems?,24. How many hours per day do you use or have been using a Tablet device?,25. How would you rate your experience with Tablet device?,26. How would you rate your ability to work with Tablet device?
+13,Male,22 to 25,High school,Yes,3 to 5 years,3 to 5 hours,6,6,6,6,6,6,6,5,5,No,,,,,No,,,,
+34,Male,22 to 25,Bachelor's degree,Yes,Over 10 years,1 to 2 hours,7,4,2,6,3,1,2,2,2,No,,,,,No,,,,
+51,Female,22 to 25,High school,Yes,1 to 2 years,Less than 1 hour,4,6,4,6,2,5,4,6,5,No,,,,,No,,,,
+1,Male,18 to 21,Bachelor's degree,Yes,Over 10 years,6 to 8 hours,7,7,6,6,5,6,6,6,6,No,,,,,Yes,3 to 4 years,,7,7
+2,Male,18 to 21,Bachelor's degree,Yes,Over 10 years,6 to 8 hours,7,6,6,6,5,6,6,5,5,No,,,,,Yes,1 to 2 years,Less than 1 hour,6,6
+3,Male,18 to 21,Bachelor's degree,Yes,Over 10 years,3 to 5 hours,7,6,6,6,5,7,,6,7,No,,,,,Yes,5 to 6 years,Less than 1 hour,6,6
+4,Male,18 to 21,Bachelor's degree,Yes,Over 10 years,3 to 5 hours,6,7,5,6,5,5,5,5,5,No,,,,,Yes,3 to 4 years,Less than 1 hour,5,6
+5,Male,22 to 25,Bachelor's degree,Yes,9 to 10 years,6 to 8 hours,7,6,6,7,6,5,7,6,5,No,,,,,Yes,5 to 6 years,1 to 2 hours,7,6
+7,Male,18 to 21,Bachelor's degree,Yes,Over 10 years,1 to 2 hours,4,5,6,6,6,6,6,6,6,No,,,,,Yes,3 to 4 years,Less than 1 hour,5,5
+9,Male,18 to 21,Bachelor's degree,Yes,Over 10 years,1 to 2 hours,7,6,6,7,6,6,7,7,6,No,,,,,Yes,1 to 2 years,1 to 2 hours,6,6
+10,Male,18 to 21,Bachelor's degree,Yes,Over 10 years,3 to 5 hours,7,6,5,7,6,4,7,7,6,No,,,,,Yes,5 to 6 years,3 to 4 hours,6,6
+11,Male,22 to 25,Bachelor's degree,Yes,Over 10 years,6 to 8 hours,7,6,6,6,5,5,6,6,4,No,,,,,Yes,1 to 2 years,Less than 1 hour,5,4
+14,Male,22 to 25,High school,Yes,9 to 10 years,Over 8 hours,7,7,6,7,6,7,6,6,6,No,,,,,Yes,3 to 4 years,Less than 1 hour,6,6
+15,Female,22 to 25,High school,Yes,9 to 10 years,6 to 8 hours,7,6,7,7,7,7,7,7,7,No,,,,,Yes,3 to 4 years,3 to 4 hours,7,7
+16,Male,18 to 21,High school,Yes,3 to 5 years,6 to 8 hours,7,7,7,7,7,7,7,7,7,No,,,,,Yes,1 to 2 years,1 to 2 hours,6,7
+17,Male,18 to 21,High school,Yes,6 to 8 years,3 to 5 hours,6,6,6,,5,6,7,7,5,No,,,,,Yes,5 to 6 years,Less than 1 hour,6,6
+18,Male,18 to 21,High school,Yes,9 to 10 years,3 to 5 hours,5,5,5,,3,4,5,3,3,No,,,,,Yes,3 to 4 years,1 to 2 hours,5,5
+19,Male,18 to 21,Bachelor's degree,Yes,Over 10 years,3 to 5 hours,7,7,7,7,5,6,7,7,6,No,,,,,Yes,5 to 6 years,Less than 1 hour,6,6
+20,Male,18 to 21,High school,Yes,Over 10 years,3 to 5 hours,6,6,5,6,5,6,6,6,4,No,,,,,Yes,1 to 2 years,Less than 1 hour,6,6
+21,Male,18 to 21,High school,Yes,Less than 1 year,Less than 1 hour,6,6,6,6,7,6,7,7,7,No,,,,,Yes,3 to 4 years,Less than 1 hour,4,4
+23,Male,18 to 21,Bachelor's degree,Yes,6 to 8 years,1 to 2 hours,4,4,4,,4,4,4,4,4,No,,,,,Yes,3 to 4 years,Less than 1 hour,3,4
+24,Male,22 to 25,Bachelor's degree,Yes,Over 10 years,3 to 5 hours,7,6,5,6,5,6,6,7,7,No,,,,,Yes,1 to 2 years,1 to 2 hours,6,7
+25,Male,22 to 25,High school,Yes,Over 10 years,3 to 5 hours,7,7,7,7,7,7,7,7,7,No,,,,,Yes,3 to 4 years,Less than 1 hour,7,7
+26,Male,18 to 21,High school,Yes,6 to 8 years,1 to 2 hours,7,6,5,7,6,6,6,4,7,No,,,,,Yes,7 to 8 years,Less than 1 hour,7,7
+27,Male,18 to 21,Bachelor's degree,Yes,Over 10 years,Over 8 hours,6,7,6,6,6,5,7,6,6,No,,,,,Yes,3 to 4 years,Over 8 hours,6,7
+28,Male,22 to 25,High school,Yes,Over 10 years,3 to 5 hours,7,5,5,7,5,5,3,3,4,No,,,,,Yes,5 to 6 years,1 to 2 hours,7,5
+29,Male,18 to 21,High school,Yes,Over 10 years,1 to 2 hours,7,7,7,7,6,6,6,5,5,No,,,,,Yes,5 to 6 years,Less than 1 hour,7,7
+30,Female,22 to 25,High school,Yes,6 to 8 years,3 to 5 hours,5,6,4,6,3,5,3,5,3,No,,,,,Yes,3 to 4 years,3 to 4 hours,7,6
+31,Male,18 to 21,High school,Yes,6 to 8 years,1 to 2 hours,6,4,5,6,4,7,6,5,3,No,,,,,Yes,3 to 4 years,1 to 2 hours,5,5
+32,Female,22 to 25,High school,Yes,Over 10 years,1 to 2 hours,7,7,7,7,5,6,6,6,5,No,,,,,Yes,3 to 4 years,Less than 1 hour,7,7
+35,Male,18 to 21,High school,Yes,Over 10 years,1 to 2 hours,7,6,5,7,6,6,6,5,6,No,,,,,Yes,7 to 8 years,1 to 2 hours,7,7
+36,Male,18 to 21,High school,Yes,Over 10 years,1 to 2 hours,6,6,6,7,4,5,5,6,3,No,,,,,Yes,9 to 10 years,Less than 1 hour,6,6
+39,Female,18 to 21,High school,Yes,9 to 10 years,3 to 5 hours,6,6,5,6,6,5,5,5,5,No,,,,,Yes,3 to 4 years,3 to 4 hours,6,6
+40,Female,22 to 25,High school,Yes,6 to 8 years,3 to 5 hours,6,5,5,6,4,4,4,6,4,No,,,,,Yes,5 to 6 years,1 to 2 hours,6,6
+41,Male,18 to 21,High school,Yes,Less than 1 year,1 to 2 hours,7,7,6,7,6,6,6,6,6,No,,,,,Yes,Less than 1 year,3 to 4 hours,7,7
+44,Male,22 to 25,Bachelor's degree,Yes,Less than 1 year,Less than 1 hour,7,7,7,7,5,6,6,6,6,No,,,,,Yes,5 to 6 years,1 to 2 hours,7,7
+45,Female,22 to 25,Bachelor's degree,Yes,Less than 1 year,Less than 1 hour,7,6,6,6,5,5,7,6,5,No,,,,,Yes,5 to 6 years,1 to 2 hours,7,6
+47,Male,22 to 25,Bachelor's degree,Yes,1 to 2 years,1 to 2 hours,6,6,6,5,5,5,6,5,5,No,,,,,Yes,3 to 4 years,1 to 2 hours,5,5
+49,Female,22 to 25,Bachelor's degree,Yes,Less than 1 year,Less than 1 hour,6,7,2,5,6,4,4,4,4,No,,,,,Yes,Less than 1 year,Less than 1 hour,4,4
+50,Female,22 to 25,Bachelor's degree,Yes,Less than 1 year,Less than 1 hour,7,5,4,7,4,1,1,1,1,No,,,,,Yes,Less than 1 year,Less than 1 hour,4,5
+52,Male,22 to 25,Bachelor's degree,Yes,Less than 1 year,Less than 1 hour,5,5,3,6,4,5,3,5,1,No,,,,,Yes,Less than 1 year,Less than 1 hour,4,6
+53,Female,22 to 25,High school,Yes,Less than 1 year,1 to 2 hours,6,6,5,6,4,,2,4,3,No,,,,,Yes,Less than 1 year,Less than 1 hour,5,5
+6,Male,22 to 25,High school,Yes,Over 10 years,3 to 5 hours,7,6,1,6,5,6,6,5,3,Yes,1 to 2 years,1 to 2 hours,5,6,Yes,5 to 6 years,Less than 1 hour,5,6
+8,Male,18 to 21,Bachelor's degree,Yes,Over 10 years,1 to 2 hours,7,6,7,7,6,7,7,7,6,Yes,1 to 2 years,1 to 2 hours,5,7,Yes,1 to 2 years,1 to 2 hours,7,7
+12,Male,22 to 25,High school,Yes,Over 10 years,Over 8 hours,7,7,6,6,6,6,6,6,5,Yes,Less than 1 year,Less than 1 hour,4,3,Yes,3 to 4 years,1 to 2 hours,4,6
+33,Female,18 to 21,High school,Yes,Less than 1 year,Less than 1 hour,6,5,5,7,5,4,4,4,4,Yes,Less than 1 year,Less than 1 hour,6,6,Yes,Less than 1 year,Less than 1 hour,5,5
+42,Female,22 to 25,High school,Yes,1 to 2 years,1 to 2 hours,5,5,4,5,4,4,4,3,4,Yes,1 to 2 years,1 to 2 hours,4,4,Yes,1 to 2 years,1 to 2 hours,4,4
+43,Male,22 to 25,High school,Yes,3 to 5 years,1 to 2 hours,6,,,6,6,6,5,7,7,Yes,3 to 4 years,Less than 1 hour,5,5,Yes,1 to 2 years,1 to 2 hours,6,6
+46,Female,22 to 25,Bachelor's degree,Yes,Less than 1 year,Less than 1 hour,7,6,6,6,5,5,5,5,6,Yes,,,,,Yes,1 to 2 years,1 to 2 hours,6,5
+54,Male,22 to 25,High school,Yes,Less than 1 year,Less than 1 hour,6,6,5,6,4,5,6,4,5,Yes,Less than 1 year,Less than 1 hour,5,5,Yes,3 to 4 years,Less than 1 hour,5,5
+55,Female,18 to 21,Bachelor's degree,Yes,Less than 1 year,Less than 1 hour,7,7,7,7,6,6,6,1,5,Yes,1 to 2 years,Less than 1 hour,7,7,Yes,3 to 4 years,1 to 2 hours,7,7
+56,Female,22 to 25,Bachelor's degree,Yes,Less than 1 year,1 to 2 hours,7,7,2,7,5,3,4,5,5,Yes,Less than 1 year,Less than 1 hour,6,5,Yes,7 to 8 years,Less than 1 hour,7,7
